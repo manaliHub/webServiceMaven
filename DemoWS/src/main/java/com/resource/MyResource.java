@@ -16,6 +16,8 @@ import com.repository.MyRepositoryJPA;
 
 /**
  * Root resource (exposed at "myresource" path)
+ * 
+ * THis is maven project with arch type jesey-quickstart webapp - 2.26 version
  */
 @Path("myresource")
 public class MyResource {
